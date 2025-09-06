@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachiniAlahakoon
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently following a Bachelor of Software Engineering (Hons) from Open University of Sri Lanka
+- 🌱 I’m currently following a Bachelor of Software Engineering Honours from Open University of Sri Lanka
 - 📫 How to reach me: sachinialahakoon327@gmail.com
 -                     +94 761116057
 -                     +94 743853855
