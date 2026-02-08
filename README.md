@@ -83,7 +83,8 @@
 
 ### ⚙ Other Tools
 - GitHub  
-- Postman  
+- Postman
+- Click Up Project Management Tool
 
 ---
 
