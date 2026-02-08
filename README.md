@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachini Rangika Alahakoon</h1>
 
 <p align="center">
-  <img src="profile.jpg" width="200" style="border-radius:50%;" />
+  <img src="profile.jpeg" width="200" style="border-radius:50%;" />
 </p>
 
 ---
