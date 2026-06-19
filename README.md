@@ -105,7 +105,10 @@
 - English — Fluent  
 - Sinhala — Fluent  
 - Hindi — Conversational  
-- Chinese — Basics  
+- Chinese — Basics
+- Spanish — Basics
+- Korean — Basics
+- Tamil — Basics
 
 ---
 
