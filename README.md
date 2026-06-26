@@ -234,6 +234,8 @@ SachiniGPT is an AI-powered counseling chatbot designed to provide a safe, suppo
 - Flow chart, Pseudo Code, Algorithm
 - Database Management Systems
 
+ --- 
+
 **Diploma in Graphic Design - Esoft Metro Campus (2021 January - 2022 January)**
 
 ## 🛠 Technical Skills
