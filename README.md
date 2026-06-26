@@ -145,7 +145,7 @@ SachiniGPT is an AI-powered counseling chatbot designed to provide a safe, suppo
 
 ## 🎓 Education
 
-**Bachelor of Software Engineering Honours - The Open University of Sri Lanka**
+**Bachelor of Software Engineering Honours - The Open University of Sri Lanka (2021 Present)**
 
 ## 🛠 Technical Skills
 
@@ -199,6 +199,10 @@ SachiniGPT is an AI-powered counseling chatbot designed to provide a safe, suppo
 
 - English Language
 - Engineering Mathematics
+- Accounting
+- Economics
+- Marketing
+- Law
 
 ---
 
