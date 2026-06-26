@@ -180,6 +180,7 @@ SachiniGPT is an AI-powered counseling chatbot designed to provide a safe, suppo
 - Adobe InDesign  
 
 ### ⚙ Other Tools
+- AI
 - GitHub  
 - Postman
 - Click Up Project Management Tool
