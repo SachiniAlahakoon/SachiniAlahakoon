@@ -55,11 +55,11 @@ This project presents the development of a web-based Student Management System f
 
 **Team Members:**
 
-A.M.S.R. Alahakoon - Project Manager, Full-Stack Engineer, Technical Writer, and Business Analyst
-H.W.H.R. De Silva - Full-Stack Engineer,
-M.G.G.C.L. Dewasinghe - Front-end and Back-end developer
-U.L.W.G.L.D. Senavirathne - Backend Developer, Database Engineer, and API Tester
-M.M.F. Shakeera - Back-end developer, UI/UX Designer, and Technical Writer
+- A.M.S.R. Alahakoon - Project Manager, Full-Stack Engineer, Technical Writer, and Business Analyst
+- H.W.H.R. De Silva - Full-Stack Engineer,
+- M.G.G.C.L. Dewasinghe - Front-end and Back-end developer
+- U.L.W.G.L.D. Senavirathne - Backend Developer, Database Engineer, and API Tester
+- M.M.F. Shakeera - Back-end developer, UI/UX Designer, and Technical Writer
 
 ### 📚 SachiGPT AI Counseling Chatbot (2025 August Present)
 Beginner Level AI Self Project - **Still in the research phase**
