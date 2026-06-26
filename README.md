@@ -68,15 +68,15 @@ SachiniGPT is an AI-powered counseling chatbot designed to provide a safe, suppo
 
 **Tech stack:**
 
-Frontend: React (Vite), HTML, CSS, JavaScript
-Backend: Python, FastAPI
-AI Integration: OpenAI API (GPT-based conversational AI)
-Database: MySQL
-API Testing: Postman
-UI/UX Design: Figma
-Version Control: GitHub
-Integrated Development Environment (IDE): PyCharm
-Deployment: Web server
+- Frontend: React (Vite), HTML, CSS, JavaScript
+- Backend: Python, FastAPI
+- AI Integration: OpenAI API (GPT-based conversational AI)
+- Database: MySQL
+- API Testing: Postman
+- UI/UX Design: Figma
+- Version Control: GitHub
+- Integrated Development Environment (IDE): PyCharm
+- Deployment: Web server
 
 ---
 
