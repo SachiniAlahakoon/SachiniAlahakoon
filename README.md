@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachini Rangika Alahakoon</h1>
+<h1 align="center">Hi 👋, I'm A.M. Sachini Rangika Alahakoon</h1>
 
 <p align="center">
   <img src="profile.jpeg" width="200" style="border-radius:50%;" />
